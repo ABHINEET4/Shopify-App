@@ -82,8 +82,11 @@ This project is licensed under the MIT License.
 
 Screenshots :- 
 
-![Screenshot (3524)](https://github.com/ABHINEET4/Shopify-App-Assignment-/assets/108821830/f320cf5b-eedf-4e7a-973a-b4dfc3b46be1)
+![Screenshot (3526)](https://github.com/ABHINEET4/Shopify-App-Assignment-/assets/108821830/cb7d4eef-6401-4dcc-b48c-a08da83289fa)
 
 
-![Screenshot (3525)](https://github.com/ABHINEET4/Shopify-App-Assignment-/assets/108821830/0292cdfa-e38e-4bbd-b677-68ec7cdb563b)
+
+![Screenshot (3527)](https://github.com/ABHINEET4/Shopify-App-Assignment-/assets/108821830/fc38b862-f69f-431d-8ea2-f48bdd86261f)
+
+
 
