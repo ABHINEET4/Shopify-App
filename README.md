@@ -79,3 +79,11 @@ Google Fonts (for typography)
 
 License :-
 This project is licensed under the MIT License.
+
+Screenshots :- 
+
+![Screenshot (3524)](https://github.com/ABHINEET4/Shopify-App-Assignment-/assets/108821830/f320cf5b-eedf-4e7a-973a-b4dfc3b46be1)
+
+
+![Screenshot (3525)](https://github.com/ABHINEET4/Shopify-App-Assignment-/assets/108821830/0292cdfa-e38e-4bbd-b677-68ec7cdb563b)
+
